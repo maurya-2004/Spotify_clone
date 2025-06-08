@@ -1,0 +1,16 @@
+# Audio files
+*.mp3
+*.wav
+*.m4a
+*.aac
+
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+
+# System files
+.DS_Store
+Thumbs.db 
